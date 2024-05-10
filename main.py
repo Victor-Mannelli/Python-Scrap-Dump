@@ -14,7 +14,6 @@ pyautogui.PAUSE = 0.5;
 pyautogui.click(x=922, y=1045, button='right')
 pyautogui.click(x=922, y=849)
 
-
 #? Go page where we will dump the csv
 pyautogui.write("https://dlp.hashtagtreinamentos.com/python/intensivao/login")
 pyautogui.press("enter")
@@ -65,4 +64,3 @@ for line in table.index :
   
   pyautogui.press("enter")
   pyautogui.scroll(999)
-  
