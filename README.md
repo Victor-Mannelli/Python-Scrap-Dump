@@ -23,7 +23,6 @@ In this project, we automate the process of entering product information into a 
 
 - Python
 - PyAutoGUI (for controlling mouse and keyboard)
-- etc. (add any additional technologies used)
 
 ## Contributing
 
